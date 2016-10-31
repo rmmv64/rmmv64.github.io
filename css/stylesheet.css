@@ -1,4 +1,62 @@
 #navbar li {
   display: inline;
-  padding: 10px;
+  padding: 20px;
+}
+
+#navbar {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+header {
+  width: 100%;
+}
+
+header h1 {
+  color: #0000FF;
+  text-align: center;
+}
+
+img {
+  width: 50%;
+  padding-left: 50px;
+  padding-right: 15px;
+  max-width: 400px;
+  height: auto;
+  position: relative;
+}
+
+#about-text {
+  width: 49%;
+  padding-left: 5px;
+  padding-right: 50px;
+  float:right;
+  clear: both;
+}
+
+#about-text h2 p {
+  clear: both;
+}
+
+#resume {
+  width: 100%;
+  margin: auto;
+}
+
+#resume img {
+  max-width: 700px;
+  margin: auto;
+  display: block;
+  border: 1px solid blue;
+}
+
+#resume-text {
+  padding-bottom:20px;
+  padding-left: 100px;
+  padding-top: 20px;
+}
+
+footer {
+  text-align: center;
+  padding-top: 30px;
 }
