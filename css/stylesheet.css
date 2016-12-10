@@ -60,3 +60,19 @@ footer {
   text-align: center;
   padding-top: 30px;
 }
+
+#contact-text {
+  width: 49%;
+  padding-left: 5px;
+  padding-right: 50px;
+  float:right;
+  clear: both;
+}
+
+#work-text {
+  width: 49%;
+  padding-left: 5px;
+  padding-right: 50px;
+  float:right;
+  clear: both;
+}
