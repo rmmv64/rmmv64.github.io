@@ -76,3 +76,7 @@ footer {
   float:right;
   clear: both;
 }
+
+#work-text h2 p {
+  clear: both;
+}
