@@ -8,6 +8,10 @@
   padding-bottom: 30px;
 }
 
+#navbar {
+    background-color: #ADD8E6;
+}
+
 header {
   width: 100%;
 }
@@ -79,4 +83,8 @@ footer {
 
 #work-text h2 p {
   clear: both;
+}
+
+p {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
