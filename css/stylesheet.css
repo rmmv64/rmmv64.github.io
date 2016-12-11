@@ -12,6 +12,10 @@
     background-color: #ADD8E6;
 }
 
+#navbar {
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+
 header {
   width: 100%;
 }
@@ -19,6 +23,7 @@ header {
 header h1 {
   color: #0000FF;
   text-align: center;
+  font-family: "Arial Black", Gadget, sans-serif;
 }
 
 img {
